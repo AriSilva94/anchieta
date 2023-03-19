@@ -4,7 +4,9 @@ body {
 }
 
 h2 {
+  font-size: 22px !important;
   font-weight: 600 !important;
+  color: #000 !important;
 }
 
 p {
@@ -34,7 +36,7 @@ p {
 }
 
 .card-body {
-  height: 80px !important;
+  height: 60px !important;
   text-align: center;
 }
 
