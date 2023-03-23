@@ -35,6 +35,7 @@ a,
 
 a:hover,
 .card-img:hover {
+  color: #000 !important;
   transform: scale(1.1) !important;
 }
 
